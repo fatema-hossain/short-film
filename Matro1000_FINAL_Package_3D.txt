@@ -1,0 +1,1264 @@
+################################################################################
+# PART 1 OF 3  —  Scammer1000_01_Shot_Breakdown_REVISED_3D.txt
+################################################################################
+
+মাত্র ১০০০ — REVISED 3D ANIMATION | 01: SHOT-BY-SHOT BREAKDOWN
+CyberFrames 2026 Finale • Updated from the user’s current screenplay and visual direction
+======================================================================================
+TOTAL: 03:27 (207s) INCLUDING END CARD | 61 shots | 12 scenes | stylized 3D animation | 16:9 / 1920x1080
+This replaces the old live-action opening, old payment attempts, mother scene, and 12-black-screen-voices section.
+NEW REQUEST: scammer has a SECOND visible PHONE on the desk, with wallet balance RISING from other victims’ incoming money.
+
+CHARACTER CONTINUITY
+IQBAL: 56, Bangladeshi college ICT teacher, short salt-and-pepper beard, thin rimless glasses, pale blue patterned full-sleeve shirt (sleeves slightly rolled), dark grey trousers, steel watch, no vest (as on Iqbal_3D_board); calm voice, no cartoonish body proportions.
+MEHRIN: 26, Bangladeshi, long dark-brown wavy hair worn loose, mint-green kameez with white embroidery, white dupatta, teal trousers (as on Mehrin_3D_board); laptop silver, tidy desk, focused expression.
+SCAMMER: 30, Bangladeshi man, short neat hair, clean-shaven, plain charcoal shirt, smartwatch, clean white sneakers; ordinary, calmly organized, not an evil caricature. No board needed: attach Iqbal_3D_board as a STYLE reference only.
+COLLEAGUE: Bangladeshi male teacher, about 50, neutral office shirt; tiny supporting part. Attach Iqbal_3D_board as a STYLE reference only.
+AHONA: VOICE ONLY; same voice from initial call to all montage recipients and 8.3 transformed demonstration. No on-screen real Ahona woman.
+
+ENVIRONMENT CONTINUITY
+COLLEGE: Dhaka/Bangladesh-style square enclosure around grass courtyard; open verandas and barred ground-floor windows, traditional metal bell; modest classroom with dark chalkboard, desks and ceiling fan. REGISTER ROOM door seen first from corridor, then entered in Scene 7. Teacher staff-room separate.
+MEHRIN ROOM: tidy middle-class Dhaka bedroom, silver laptop, desk near window, books and phone; morning through late-afternoon lighting should not switch implausibly.
+SCAMMER ROOM: clean modern but non-luxury apartment, black desk, one large monitor, microphone, black phone ON DESK RIGHT OF KEYBOARD, small house of cards NEXT TO KEYBOARD, sheer curtain by slightly open window. Same exact geometry in Scenes 8 and 11. Scene 8 ends with him calmly leaving: beggar moment on the footpath, then he disappears into the Dhaka crowd (no chase, no villain music).
+
+TEXT/UI CONTINUITY
+1) Chalkboard always DIGITAL HYGIENE and VERIFY FIRST before erasure (add accurately in editing).
+2) Father forwards one LINK and a short message. Ahona does NOT message Mehrin directly.
+3) Same fictional careers page in Scenes 4, 5 and 6. CV has filename Mehrin_CV.pdf throughout.
+4) NO completed payment by Mehrin. Her cursor never clicks PAY NOW. Remove any insufficient-balance or wallet-top-up scene.
+5) Scammer's separate phone ACCOUNT BALANCE: ৳12,400 start; +৳500 = ৳12,900; +৳1,000 = ৳13,900; +৳800 = ৳14,700. 3 TINGS. This is other victims' money, NEVER Mehrin's.
+6) During doubts, silver laptop is closed after the father call; opens again only at the distinct CLACK.
+7) Final house of cards is SYMBOLIC; police did not instantly shut the scammer down.
+
+SUBMISSION & CONTENT NOTES
+- Official attached PDF's stated duration range: 3:00–3:30. Our total INCLUDING end title = 03:27 (207s), leaving a 3s margin under the 3:30 limit.
+- The attached PDF requires cybersecurity relevance, responsible content, public-viewing appropriateness, and specified format/file naming. It does not itself verify the separate deadline or logo restriction claims in the older TXT documents; confirm those against the organizers' email if applicable.
+- PDF names file pattern: Team Name Finale__CyberFrames 2026 (use your actual team name; check spacing and extension required in upload form).
+- Do not show real identifiable educational institutions, fraud victims' details, working phishing domains, or real wallet balances; the phone is a fictionalized visual.
+- Government information: Bangladesh Police Online GD: https://gd.police.gov.bd ; Police Cyber Support for Women (PCSW): cybersupport.women@police.gov.bd, 01320000888. Police citizen charter describes PCSW assistance as free. Reporting screens are a SIMPLIFIED VISUAL MOCK; REPORT SUBMITTED means information was sent, not that a criminal case has been registered or an investigation completed.
+- “জিডি করতেও নাকি টাকা লাগে” is an unverified fear spoken by imagined voices, deliberately not a true assertion. Avoid presenting it in informational end-cards.
+- Final brief does not mandate 16:9 specifically; 1920x1080 horizontal is this production plan's choice. Use MP4 H.264 if accepted by organizer upload requirements.
+
+GENERAL WORKFLOW: Use the stylized 3D character boards (Iqbal_3D_board, Mehrin_3D_board) for every shot. Make a still first (Create image), get it approved, then animate it (image-to-video in Google Vids / Veo). Overlay exact UI and text in the editor.
+DIFFERENCE FROM OLD TXT: removed photorealism, classroom speech intro, mother dialogue, payment-failure screen; KEPT the scammer leaving / beggar / Dhaka crowd beat (8.7–8.10); replaces with college/cat/bell/blackboard/register foreshadow and laptop-CLACK inner monologue.
+
+======================================================================================
+MASTER SHOT LIST
+======================================================================================
+
+SCENE 01 — কলেজের সকাল | 00:00–00:11 (11s)
+PURPOSE: Square courtyard college → black cat → window class → traditional bell → students leave. No classroom lecture dialogue.
+------------------------------------------------------------------------------------
+[1.1] 00:00–00:02 (2s) | AI
+VISUAL: কলেজের গেট পেরিয়ে square-shaped campus-এর প্রশস্ত establishing view; কেন্দ্রের মাঠ, চারপাশে ভবন, বাংলাদেশের সকাল।
+ON-SCREEN/UI: Optional invented college sign only
+AUDIO: Birds, faint campus voices
+EDIT/CONTINUITY: Keep entire square geometry readable; no real school name.
+
+[1.2] 00:02–00:04 (2s) | AI
+VISUAL: নিচতলার বারান্দার সামনে কালো বিড়াল পাশ দিয়ে হাঁটে; একবার ওপরে তাকিয়ে মিউ করে।
+AUDIO: Black cat: one natural meow
+EDIT/CONTINUITY: Do not suggest supernatural symbolism.
+
+[1.3] 00:04–00:07 (3s) | AI
+VISUAL: বিড়ালের দিক থেকে ক্যামেরা ওপরের/সামনের খোলা নিচতলার ক্লাসরুমের জানালায় জুম করে; শিক্ষক ক্লাস নিচ্ছেন, কণ্ঠ অস্পষ্ট।
+AUDIO: Indistinct teaching murmur, classroom fan
+EDIT/CONTINUITY: Use camera move over a prepainted multi-layer BG.
+
+[1.4] 00:07–00:09 (2s) | AI
+VISUAL: বাংলাদেশি কলেজের পুরনো ঘণ্টার ক্লোজ-আপ, কর্মচারী বাজায়।
+AUDIO: Loud metal bell DONG-DONG
+EDIT/CONTINUITY: Hard cut on first strike.
+
+[1.5] 00:09–00:11 (2s) | AI
+VISUAL: করিডর দিয়ে ছাত্রছাত্রীদের বেরিয়ে যাওয়া; ব্যাগ, পদচারণা, ছোট ছোট কথা।
+AUDIO: Footsteps, distant chatter
+EDIT/CONTINUITY: Reuse student walk cycles.
+
+
+SCENE 02 — মুছে যাওয়া সতর্কবার্তা | 00:11–00:21 (10s)
+PURPOSE: Outside classroom framing, Blackboard DIGITAL HYGIENE / VERIFY FIRST, erasing, phone on desk, unknown caller.
+------------------------------------------------------------------------------------
+[2.1] 00:11–00:14 (3s) | AI
+VISUAL: দরজার বাইরে থেকে ক্লাসরুম wide; ইকবাল স্যার ব্ল্যাকবোর্ড মুছছেন, টেবিলে বই খাতা কলম ফোন।
+ON-SCREEN/UI: DIGITAL HYGIENE / VERIFY FIRST / Unknown Links · Fake Offers (text added by editor)
+AUDIO: Soft chalk erasing, fan hum
+EDIT/CONTINUITY: Overlay exact board text in post; not generated lettering.
+
+[2.2] 00:14–00:17 (3s) | AI
+VISUAL: স্যার মুছতে মুছতে VERIFY FIRST কথাটি মুছে ফেলেন; হাতের ক্লোজ-আপ।
+ON-SCREEN/UI: VERIFY FIRST (editor overlay, dissolves with wipe)
+AUDIO: Duster drag
+EDIT/CONTINUITY: Visual irony: lesson erased at moment of trust.
+
+[2.3] 00:17–00:19 (2s) | AI+UI
+VISUAL: কাঠের টেবিলে বই কলমের পাশে ফোন ভাইব্রেট।
+ON-SCREEN/UI: Phone UI: Unknown Number / Incoming call
+AUDIO: Bzz bzz ringtone
+EDIT/CONTINUITY: Animate phone slight vibration in compositing.
+
+[2.4] 00:19–00:21 (2s) | AI+UI
+VISUAL: স্ক্রিনে Unknown Number; স্যার ফোন তুলে কল রিসিভ করেন।
+ON-SCREEN/UI: Unknown Number / green answer icon
+AUDIO: Call connected click
+EDIT/CONTINUITY: No real personal number.
+
+
+SCENE 03 — অহনার ফোন ও রেজিস্টার কক্ষ | 00:21–00:55 (34s)
+PURPOSE: Natural short call while teacher gathers books and walks to staff room; glimpse of REGISTER ROOM; link arrives and is forwarded.
+------------------------------------------------------------------------------------
+[3.1] 00:21–00:27 (6s) | AI
+VISUAL: ইকবাল স্যারের মিডিয়াম শট, ফোনে প্রথম সম্ভাষণ; স্বাভাবিক ভদ্রতা।
+AUDIO: অহনা: “আসসালামু আলাইকুম, ইকবাল স্যার?” | ইকবাল: “ওয়ালাইকুম আসসালাম। কে বলছ?”
+EDIT/CONTINUITY: Allow two spoken lines across 6 seconds.
+
+[3.2] 00:27–00:33 (6s) | AI
+VISUAL: মনে করার চেষ্টা করেন; ছাত্রীর পরিচয় শোনেন।
+AUDIO: অহনা: “স্যার, আমি অহনা। ২০১৮ ব্যাচ, বি সেকশন।” | ইকবাল: “ঠিক মনে পড়ছে না মা। বলো।”
+EDIT/CONTINUITY: A little phone-bandwidth filter for Ahona only.
+
+[3.3] 00:33–00:41 (8s) | AI
+VISUAL: অহনা HR-এ কাজ ও নিয়োগের কথা বলে, ইকবাল মেয়ের চাকরির কথা বলেন।
+AUDIO: অহনা: “এখন একটা কোম্পানির এইচআর-এ আছি। লোক নিচ্ছি। আপনার পরিচিত কেউ চাকরি খুঁজছে?” | ইকবাল: “আমার মেয়েই তো খুঁজছে।”
+EDIT/CONTINUITY: Do not visualize female caller; voice only.
+
+[3.4] 00:41–00:47 (6s) | AI
+VISUAL: ফোনে আবেদন লিংকের কথা চলতে চলতে স্যার বইখাতা হাতে ক্লাস থেকে করিডরে পা দেন।
+AUDIO: অহনা: “তাহলে একটা আবেদন লিংক পাঠাই। মেয়েকে আবেদন করতে বলবেন।” | ইকবাল: “আচ্ছা মা, পাঠাও।”
+EDIT/CONTINUITY: Dialogue overlaps walking; ensure he visibly leaves classroom.
+
+[3.5] 00:47–00:51 (4s) | AI
+VISUAL: কলেজ করিডরে স্যার অন্যমনস্কভাবে রেজিস্টার কক্ষের সাইনবোর্ডের দিকে তাকান, হাঁটতে থাকেন।
+ON-SCREEN/UI: রেজিস্টার কক্ষ (post overlay)
+AUDIO: অহনা: “ধন্যবাদ স্যার।” | ইকবাল: “ভালো থেকো।”
+EDIT/CONTINUITY: Foreshadow; exactly same register doorway in Scene 7.
+
+[3.6] 00:51–00:53 (2s) | AI+UI
+VISUAL: শিক্ষক কক্ষে বসতেই নতুন লিংকের মেসেজ আসে।
+ON-SCREEN/UI: Message from Unknown: “স্যার, আবেদন করার লিংকটা পাঠালাম।” + invented link
+AUDIO: Message ting
+EDIT/CONTINUITY: Avoid exposing actionable phishing address; use jobs.example.invalid.
+
+[3.7] 00:53–00:55 (2s) | COMPOSITE
+VISUAL: ইকবাল স্যার মেহরিনকে বাবার মেসেজ ও লিংক ফরওয়ার্ড করেন।
+ON-SCREEN/UI: To Mehrin: “আমার এক পুরনো ছাত্রী চাকরির খবর দিয়েছে। দেখো, তোমার কাজে লাগে কি না।” + preview link
+AUDIO: Tap and send tick
+EDIT/CONTINUITY: MATCH CUT send tick → daughter notification.
+
+
+SCENE 04 — মেহরিনের ঘর ও বাবার মেসেজ | 00:55–01:06 (11s)
+PURPOSE: Tidy Bangladeshi middle-class room, job search website, notification, immediate trust in father.
+------------------------------------------------------------------------------------
+[4.1] 00:55–00:59 (4s) | AI+UI
+VISUAL: পরিপাটি রুমে মেহরিন ল্যাপটপে চাকরি খুঁজছে।
+ON-SCREEN/UI: Generic Career Search mock: Management Trainee / HR Executive / Junior Business Associate
+AUDIO: Keyboard ticks, quiet room
+EDIT/CONTINUITY: See mock-screen specification section.
+
+[4.2] 00:59–01:02 (3s) | AI+UI
+VISUAL: মোবাইল ভাইব্রেট; বাবার মেসেজ পড়ে।
+ON-SCREEN/UI: Baba: “আমার এক পুরনো ছাত্রী চাকরির খবর দিয়েছে। দেখো, তোমার কাজে লাগে কি না।”
+AUDIO: Phone vibration + notification ding
+EDIT/CONTINUITY: No extra invented Ahona direct chat.
+
+[4.3] 01:02–01:06 (4s) | AI+UI
+VISUAL: সে বাবার পাঠানো লিংকে ক্লিক করে; নতুন আবেদন পেজ খোলে।
+ON-SCREEN/UI: Job Application — Junior Executive — Apply Now
+AUDIO: Mouse click, soft UI transition
+EDIT/CONTINUITY: Screen mock is NOT a real company website.
+
+
+SCENE 05 — একটি ফর্ম, অনেক প্রতারণা | 01:06–01:28 (22s)
+PURPOSE: CV upload is the visual thread while different recipients hear exactly the same Ahona voice; return to CV success and colleague warning.
+------------------------------------------------------------------------------------
+[5.1] 01:06–01:09 (3s) | MOTION
+VISUAL: ফর্মে নাম, ফোন, MBA, CV upload।
+ON-SCREEN/UI: Full Name: Mehrin; Phone: 01XXXXXXXXX; Education: MBA; CV: Mehrin_CV.pdf
+AUDIO: Typing, cursor click
+EDIT/CONTINUITY: Make UI in Figma/Canva rather than text-to-video.
+
+[5.2] 01:09–01:12 (3s) | MOTION
+VISUAL: CV upload progress 10→35%; montage-এর জন্য visual anchor।
+ON-SCREEN/UI: Uploading Mehrin_CV.pdf — 10% → 35%
+AUDIO: Digital soft ticks
+EDIT/CONTINUITY: Design progress returns at 5.7.
+
+[5.3] 01:12–01:15 (3s) | AI
+VISUAL: গ্রামবাংলার ধানখেতে কৃষক ফোনে কৃষিঋণের ভুয়া প্রস্তাব শুনছে।
+AUDIO: অহনা (same AI voice): “সহজ শর্তে কৃষিঋণের জন্য আবেদন করুন।”
+EDIT/CONTINUITY: Same Ahona timbre as first call.
+
+[5.4] 01:15–01:17 (2s) | AI
+VISUAL: মধ্যবয়সী নারী ঘরে বসে সন্তানের স্কলারশিপ প্রস্তাব শুনছেন।
+AUDIO: অহনা (same AI voice): “আপনার সন্তানের স্কলারশিপের আবেদন চলছে।”
+EDIT/CONTINUITY: Hard cut following phone voice.
+
+[5.5] 01:17–01:20 (3s) | AI
+VISUAL: একজন ভ্রমণপ্রার্থী বা ছোট দোকানদার কম খরচে ট্রাভেল প্যাকেজের কথা শুনছে।
+AUDIO: অহনা (same AI voice): “কম খরচে ভ্রমণ প্যাকেজ—আজই বুকিং করুন।”
+EDIT/CONTINUITY: Different occupation, same female voice.
+
+[5.6] 01:20–01:22 (2s) | AI
+VISUAL: একজন তরুণ চাকরিপ্রার্থী হোস্টেলে ফোন ধরেছে।
+AUDIO: অহনা (same AI voice): “আপনার সিভি বাছাই হয়েছে। আবেদন শেষ করুন।”
+EDIT/CONTINUITY: No extra supporting dialogue.
+
+[5.7] 01:22–01:25 (3s) | MOTION
+VISUAL: মেহরিনের CV upload 100%; Success।
+ON-SCREEN/UI: 100% — CV Uploaded Successfully
+AUDIO: Small confirmation tick
+EDIT/CONTINUITY: Must match same website layout and filename.
+
+[5.8] 01:25–01:28 (3s) | AI
+VISUAL: শিক্ষক কক্ষে সহকর্মী একই অহনার ফোন দেখান; ইকবাল চমকে রেজিস্টার কক্ষের দিকে যান।
+ON-SCREEN/UI: Optional: caller shown Unknown Number
+AUDIO: সহকর্মী: “ইকবাল ভাই, অহনা নামে আমাকেও ফোন করেছে!”
+EDIT/CONTINUITY: Use one short speaking line; short intercut.
+
+
+SCENE 06 — প্রসেসিং ফি | 01:28–01:39 (11s)
+PURPOSE: The fee is displayed; Mehrin does not pay; father’s call interrupts before she presses Pay.
+------------------------------------------------------------------------------------
+[6.1] 01:28–01:31 (3s) | MOTION
+VISUAL: CV success থেকে ৳1,000 application processing fee screen আসে।
+ON-SCREEN/UI: APPLICATION PROCESSING FEE — ৳1,000 — PAY NOW
+AUDIO: UI soft pop
+EDIT/CONTINUITY: Never show actual completed payment.
+
+[6.2] 01:31–01:34 (3s) | AI
+VISUAL: মেহরিন সন্দেহ নিয়ে বাবার মেসেজ আবার দেখে।
+AUDIO: মেহরিন: “আবেদন করতেও টাকা?”
+EDIT/CONTINUITY: Subtle room tone, no swelling score.
+
+[6.3] 01:34–01:37 (3s) | AI+UI
+VISUAL: PAY NOW-এর কাছে cursor থামে; ক্লিক করার আগেই ফোন বাজে।
+ON-SCREEN/UI: PAY NOW (on laptop) / Baba Calling (on phone)
+AUDIO: Ringtone cuts tension
+EDIT/CONTINUITY: Absolutely no Pay click, no insufficient-balance error, no transfer.
+
+[6.4] 01:37–01:39 (2s) | AI
+VISUAL: মেহরিন ফোন তুলে বাবার কল রিসিভ করে।
+AUDIO: Phone connect click
+EDIT/CONTINUITY: Transition to father call.
+
+
+SCENE 07 — বাবার যাচাই ও সত্য | 01:39–02:04 (25s)
+PURPOSE: Record check pays off register-room foreshadowing; teacher admits his mistake; daughter stops before payment and gently closes laptop.
+------------------------------------------------------------------------------------
+[7.1] 01:39–01:45 (6s) | AI
+VISUAL: মেহরিন ফোনে শুনছে বাবার উদ্বিগ্ন প্রশ্ন, টাকা চাওয়ার কথা বলে।
+AUDIO: ইকবাল (ফোন): “মেহরিন, টাকা চেয়েছে?” | মেহরিন: “হ্যাঁ বাবা, এক হাজার।”
+EDIT/CONTINUITY: Natural voice, slight concern.
+
+[7.2] 01:45–01:51 (6s) | AI
+VISUAL: ইকবাল রেজিস্টার কক্ষের ভেতরে ফোনে স্পষ্ট নিষেধ করেন; সহকর্মীরা একই কল পেয়েছেন বলেন।
+AUDIO: ইকবাল: “এক টাকাও দিবা না।” | মেহরিন (ফোন): “কেন?” | ইকবাল: “আরও কয়েকজন শিক্ষক একই ফোন পেয়েছে।”
+EDIT/CONTINUITY: Music CUT exactly on “এক টাকাও দিবা না।”
+
+[7.3] 01:51–01:56 (5s) | AI+UI
+VISUAL: ২০১৮ ব্যাচ বি সেকশনের রেজিস্টার ঘাঁটছেন, কোনো অহনার মিল নেই।
+ON-SCREEN/UI: ২০১৮ · বি সেকশন (overlay only)
+AUDIO: ইকবাল (VO phone): “রেজিস্টারে ওই ব্যাচে অহনা নামে কাউকে পেলাম না।”
+EDIT/CONTINUITY: Use previous register room background exactly.
+
+[7.4] 01:56–02:01 (5s) | AI
+VISUAL: মেহরিন প্রশ্ন করে; স্যার ভুল স্বীকার করেন।
+AUDIO: মেহরিন: “তুমি তো বললে তোমার ছাত্রী!” | ইকবাল: “যাচাই না করেই লিংকটা পাঠিয়েছি।”
+EDIT/CONTINUITY: Keep response human and brief.
+
+[7.5] 02:01–02:04 (3s) | AI
+VISUAL: মেহরিন স্বস্তির নিঃশ্বাস ফেলে আলতো করে ল্যাপটপের ঢাকনা বন্ধ করে।
+AUDIO: মেহরিন (ফিসফিস): “আল্লাহ... একটুর জন্য বেঁচে গেলাম।”
+EDIT/CONTINUITY: She has NOT paid. Laptop remains CLOSED until shot 9.4.
+
+
+SCENE 08 — প্রতারকের আসল কণ্ঠ এবং বাড়তে থাকা ব্যালেন্স | 02:04–02:36 (32s)
+PURPOSE: Reveal male voice conversion; multiple fake campaigns; separate phone on desk shows fictional wallet balance 12,400 → 12,900 → 13,900 → 14,700; one more card on the house of cards; then he calmly leaves, drops money to a beggar without looking, and disappears into the Dhaka crowd.
+------------------------------------------------------------------------------------
+[8.1] 02:04–02:07 (3s) | AI
+VISUAL: পরিপাটি অ্যাপার্টমেন্ট, পিছন থেকে প্রতারক, মনিটর, মাইক্রোফোন, HOUSE OF CARDS, তার একটি ফোন।
+AUDIO: Low room tone and fan hum
+EDIT/CONTINUITY: Anchor positions for all later scammer shots.
+
+[8.2] 02:07–02:11 (4s) | AI
+VISUAL: প্রতারক নিজের পুরুষকণ্ঠে আগের পরিচয়ের লাইন বলে।
+AUDIO: প্রতারক (পুরুষ): “স্যার, আমি অহনা বলছিলাম...”
+EDIT/CONTINUITY: Do not make him look like a caricature villain.
+
+[8.3] 02:11–02:15 (4s) | AI+UI
+VISUAL: মাউস ক্লিক; waveform বদলে একই লাইন নারীকণ্ঠে বাজে।
+ON-SCREEN/UI: VOICE CONVERSION — waveform only, no brand
+AUDIO: Mouse click, AI অহনা (female): “স্যার, আমি অহনা বলছিলাম...”
+EDIT/CONTINUITY: This is AI voice conversion, not proven cloning of a real Ahona.
+
+[8.4] 02:15–02:18 (3s) | COMPOSITE
+VISUAL: মনিটরের চারটি ভুয়া স্কিমের উইন্ডো দেখানো; জটিল হ্যাকিং UI নয়।
+ON-SCREEN/UI: FAKE JOB / LOAN APPLICATION / SCHOLARSHIP / TRAVEL BOOKING
+AUDIO: Very quiet electronic hum
+EDIT/CONTINUITY: Keep generic window titles not real service logos.
+
+[8.5] 02:18–02:24 (6s) | AI+MOTION
+VISUAL: নতুন সংশোধন: ডেস্কের আলাদা ফোনে account balance ধারাবাহিকভাবে বাড়ে, প্রতিটি টাকা আসার সঙ্গে টিং।
+ON-SCREEN/UI: FICTIONAL WALLET: Available Balance ৳12,400 → ৳12,900 (+৳500) → ৳13,900 (+৳1,000) → ৳14,700 (+৳800). Three incoming payment notifications.
+AUDIO: TING at 138.7s, 140.5s, 142.3s (editor may shift by frames).
+EDIT/CONTINUITY: Critical: balances mathematically consistent; PHONE SCREEN balances, not just computer notifications; no real wallet/bank logo.
+
+[8.6] 02:24–02:26 (2s) | AI
+VISUAL: প্রতারক শান্তভাবে তাসের ঘরে আরও একটি তাস বসায়; কোনো তাড়াহুড়ো নেই।
+AUDIO: Card rustle
+EDIT/CONTINUITY: Room arrangement must match the final empty-room shot (Scene 11).
+
+[8.7] 02:26–02:28 (2s) | AI
+VISUAL: প্রতারক শান্তভাবে কম্পিউটার lock করে, মনিটর অন্ধকার হয়; হাতে smartwatch পরে, নিজের ব্যক্তিগত ফোন পকেটে রাখে। টাকার ফোনটি ডেস্কেই থাকে।
+AUDIO: Lock click, chair roll
+EDIT/CONTINUITY: Frame from the shoulders down. The wallet phone stays on the desk for Scene 11.
+
+[8.8] 02:28–02:30 (2s) | AI
+VISUAL: দরজার কাছে সাদা sneaker-এর ফিতা বাঁধে, তারপর apartment থেকে বেরিয়ে যায়।
+AUDIO: Lace pull, door closing
+EDIT/CONTINUITY: Hands and shoes only.
+
+[8.9] 02:30–02:33 (3s) | AI
+VISUAL: সন্ধ্যার ঢাকার ফুটপাতে একজন বৃদ্ধ ভিক্ষুক হাত বাড়ান; প্রতারক না থেমে, না তাকিয়ে কিছু টাকা দিয়ে চলে যায়।
+AUDIO: Street ambience, rickshaw bells
+EDIT/CONTINUITY: Beggar shown with dignity, no caricature. Scammer seen from the side/behind.
+
+[8.10] 02:33–02:36 (3s) | AI
+VISUAL: পিছন থেকে wide: প্রতারক রিকশা আর মানুষের ভিড়ে মিশে যায়।
+AUDIO: City sound only. NO villain music.
+EDIT/CONTINUITY: He is just an ordinary man in the crowd.
+
+
+SCENE 09 — মনের ভেতরের কণ্ঠ | 02:36–02:56 (20s)
+PURPOSE: Mehrin debates reporting; imagined overlapping criticism, rumor of GD fee clearly subjective, head in hands; opening laptop makes every voice cut to dead silence.
+------------------------------------------------------------------------------------
+[9.1] 02:36–02:40 (4s) | AI
+VISUAL: মেহরিন বন্ধ ল্যাপটপের সামনে বসে নিজেকে প্রশ্ন করে।
+AUDIO: মেহরিন (নিজের মনে): “কিন্তু... রিপোর্ট করব?”
+EDIT/CONTINUITY: Start without music.
+
+[9.2] 02:40–02:48 (8s) | AI+MOTION
+VISUAL: মুখের চারদিকে অস্পষ্ট কথার বুদবুদ ও অন্ধকার ব্যাকগ্রাউন্ড, বিভিন্ন কণ্ঠ আঘাত করে।
+ON-SCREEN/UI: Floating phrases: টাকা যায়নি / মানুষ হাসবে / এত ঝামেলা / অভিযোগ করে কী হবে?
+AUDIO: V1 “তোর তো টাকা যায়নি...” V2 “এক হাজার টাকার জন্য এত ঝামেলা?” V3 “মানুষ জানলে হাসবে।” V4 “শুনেছি, জিডি করতেও নাকি টাকা লাগে!” V5 “অভিযোগ করে কী হবে?” V6 “বাদ দে...”
+EDIT/CONTINUITY: These are intrusive doubts, NOT factual statements. Avoid claim that an actual GD requires payment.
+
+[9.3] 02:48–02:52 (4s) | AI+MOTION
+VISUAL: কণ্ঠগুলো একসঙ্গে জটলা, মেহরিন মাথা চেপে ধরে।
+AUDIO: Layered repetitions: “টাকা যায়নি...”, “হাসবে...”, “কী হবে...”
+EDIT/CONTINUITY: Voice layers build then stop instantly in next shot.
+
+[9.4] 02:52–02:56 (4s) | AI
+VISUAL: মেহরিন দৃঢ়ভাবে ল্যাপটপ খুললে ক্ল্যাক শব্দে সব ভয়েস instant cut; আলো মুখে পড়ে।
+AUDIO: LAPTOP CLACK exactly at 174s → ALL VOICES AND MUSIC HARD CUT TO SILENCE
+EDIT/CONTINUITY: No fade, no echo, no other sound immediately after the clack.
+
+
+SCENE 10 — প্রমাণসহ রিপোর্ট | 02:56–03:11 (15s)
+PURPOSE: Search official Bangladesh Police guidance, gather proofs and submit complaint; use stylized mock UI, no invented claim of instant investigation.
+------------------------------------------------------------------------------------
+[10.1] 02:56–02:59 (3s) | MOTION
+VISUAL: সে সার্চ করে: How to report cybercrime in Bangladesh।
+ON-SCREEN/UI: How to report cybercrime in Bangladesh
+AUDIO: Single keyboard strokes, otherwise quiet
+EDIT/CONTINUITY: Use search mock UI; direct link to official sources only.
+
+[10.2] 02:59–03:02 (3s) | MOTION
+VISUAL: অফিসিয়াল বাংলাদেশ পুলিশের Online GD তথ্য খুঁজে পায়; যোগাযোগের অন্য পথ PCSW।
+ON-SCREEN/UI: Bangladesh Police Online GD — gd.police.gov.bd | Police Cyber Support for Women — cybersupport.women@police.gov.bd
+AUDIO: Subtle selection click
+EDIT/CONTINUITY: A search result is NOT the full actual portal process; later form is condensed fictional montage.
+
+[10.3] 03:02–03:06 (4s) | MOTION
+VISUAL: কলোগ, বাবার মেসেজ, ভুয়া আবেদন পেজ, URL, CV জমার স্ক্রিনশট EVIDENCE ফোল্ডারে।
+ON-SCREEN/UI: EVIDENCE / call-log.png / message-screenshot.png / fake-job-page.png / suspicious-url.txt
+AUDIO: Soft mouse clicks
+EDIT/CONTINUITY: Show URL in screenshot; do not recreate live phishing domain.
+
+[10.4] 03:06–03:09 (3s) | MOTION
+VISUAL: সরকারি অভিযোগ পদ্ধতির stylized summary: লগইন/তথ্য/প্রমাণ/অভিযোগের বিবরণ; সাবমিট প্রস্তুত।
+ON-SCREEN/UI: Complaint details / Supporting evidence attached / SUBMIT
+AUDIO: Keyboard, tiny clicks
+EDIT/CONTINUITY: Mark simplified screen mock as illustration, not a screenshot of real site.
+
+[10.5] 03:09–03:11 (2s) | MOTION
+VISUAL: মেহরিন SUBMIT ক্লিক করে, ছোট confirmation overlay; ক্লিকের মুহূর্তে স্ক্যামার রুমে hard cut।
+ON-SCREEN/UI: REPORT SUBMITTED (cinematic overlay); NOT “Case solved”, NOT “Suspect arrested”
+AUDIO: One crisp mouse CLICK
+EDIT/CONTINUITY: Status means information sent only; not a verified real-world police acceptance.
+
+
+SCENE 11 — ফিরে দেখা সেই তাসের ঘর | 03:11–03:16 (5s)
+PURPOSE: Same scammer room empty, monitor powered off, phone remains on desk; breeze destabilizes house of cards, metaphor only.
+------------------------------------------------------------------------------------
+[11.1] 03:11–03:14 (3s) | AI
+VISUAL: একই স্ক্যামার রুম এখন খালি; monitor off, ফোন পাশে, পর্দার বাতাসে তাসের ঘর কাঁপে।
+ON-SCREEN/UI: Phone may be dark/locked; no further balance change after report
+AUDIO: Soft breeze, faint room tone
+EDIT/CONTINUITY: Do not imply reporting instantly froze or emptied a bank account.
+
+[11.2] 03:14–03:16 (2s) | AI
+VISUAL: তাসগুলো নীরবে আলগা হয়ে পড়ে, কোনো অতিনাটকীয় effect নয়।
+AUDIO: Soft paper card patter
+EDIT/CONTINUITY: Visual metaphor for breaking silence, NOT a confirmed takedown.
+
+
+SCENE 12 — শেষ বার্তা | 03:16–03:27 (11s)
+PURPOSE: Minimal end card with 3 short awareness messages and title, 11 seconds total.
+------------------------------------------------------------------------------------
+[12.1] 03:16–03:19 (3s) | END
+VISUAL: কালো পর্দায় tagline-এর প্রথম অংশ।
+ON-SCREEN/UI: “আপনার কাছে মাত্র ১,০০০ টাকা।”
+AUDIO: Silence or faint low note
+EDIT/CONTINUITY: Hold readable 3 seconds.
+
+[12.2] 03:19–03:22 (3s) | END
+VISUAL: কালো পর্দায় tagline-এর দ্বিতীয় অংশ।
+ON-SCREEN/UI: “তার কাছে হাজার মানুষের ১,০০০ টাকা।”
+AUDIO: Single subtle low note
+EDIT/CONTINUITY: Hold readable 3 seconds.
+
+[12.3] 03:22–03:25 (3s) | END
+VISUAL: সাইবার নিরাপত্তার আহ্বান ও অফিসিয়াল সহায়তার ছোট লেখা।
+ON-SCREEN/UI: যাচাই করুন। প্রমাণ রাখুন। রিপোর্ট করুন। | PCSW: cybersupport.women@police.gov.bd
+AUDIO: Silence
+EDIT/CONTINUITY: PCSW for women; free support. Do not show 4-line tiny checklist in 3 seconds.
+
+[12.4] 03:25–03:27 (2s) | END
+VISUAL: শেষ শিরোনাম: মাত্র ১০০০।
+ON-SCREEN/UI: মাত্র ১০০০
+AUDIO: Fade to black
+EDIT/CONTINUITY: End precisely at 03:27.
+
+======================================================================================
+SOUND DESIGN & PACING
+======================================================================================
+0:00–0:21: ambient college birds, class murmur, loud bell, eraser friction, then unknown-phone buzz.
+0:21–0:55: female telephone filtering; no horror sting; subtle everyday college ambience.
+0:55–1:28: desk typing and slow tension; scam montage uses EXACT SAME female timbre; CV upload is the parallel visual thread.
+1:28–2:04: fee displayed; father ringtone before Pay; CUT MUSIC sharply at 1:45 approx when father says “এক টাকাও দিবা না।” (tune to performance).
+2:04–2:36: male-to-female AI conversion reveal; 3 balance TINGS synchronized to +500/+1,000/+800; avoid villain music. Then he locks up and leaves: street and city sound only, no villain music.
+2:36–2:56: six internal voices begin separately then overlap; emphatic LAPTOP CLACK around 2:54 HARD MUTES ALL VOICES.
+2:56–3:11: deliberate quiet, clear search/evidence/submission UI. 3:11–3:16 card-fall rustle only. 3:16–3:27 readable end card.
+
+SUGGESTED WORKFLOW
+1) Lock the character boards (Iqbal, Mehrin) and one reference still per location (classroom, register room, staff room, Mehrin's room, scammer room, street).
+2) Create static UI overlays (chats, career search, application, CV upload, fee, scammer phone balance, reporting).
+3) Record file 03 dialogue with timings and test a RADIO EDIT before generating every shot.
+4) Generate stills, then animate them with file 02 prompts; composite UI and match exact timing; export to 03:27 maximum.
+5) Fact-check final PCSW contact card and obey actual submission email instructions.
+
+
+
+################################################################################
+# PART 2 OF 3  —  Scammer1000_02_AI_Video_Prompts_REVISED_3D.txt
+################################################################################
+
+মাত্র ১০০০ — REVISED 3D ANIMATION | 02: AI VIDEO PROMPTS & SCREEN OVERLAYS
+CyberFrames 2026 Finale • Shot IDs/timecodes EXACTLY match file 01
+======================================================================================
+61 total shots (AI shots, composites, motion graphics and end cards)
+WORKFLOW: generate character/setting shots in the stylized 3D look of the character boards (Google Vids / Veo), NOT photorealistic live action. Record Bengali dialogue in file 03.
+PROMPT INSTRUCTIONS: Paste SCENE PROMPT + SHARED STYLE for AI shots, and attach the character board(s). For MOTION/COMPOSITE/END shots, follow editor build rather than asking video models to render exact text.
+Generate reference characters/locations first; do not vary clothing, desk, phone placement, or college geometry across shots.
+
+SHARED STYLE (already included in every AI prompt below):
+Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+
+CHARACTER CONTINUITY
+IQBAL: 56, Bangladeshi college ICT teacher, short salt-and-pepper beard, thin rimless glasses, pale blue patterned full-sleeve shirt (sleeves slightly rolled), dark grey trousers, steel watch, no vest (as on Iqbal_3D_board); calm voice, no cartoonish body proportions.
+MEHRIN: 26, Bangladeshi, long dark-brown wavy hair worn loose, mint-green kameez with white embroidery, white dupatta, teal trousers (as on Mehrin_3D_board); laptop silver, tidy desk, focused expression.
+SCAMMER: 30, Bangladeshi man, short neat hair, clean-shaven, plain charcoal shirt, smartwatch, clean white sneakers; ordinary, calmly organized, not an evil caricature. No board needed: attach Iqbal_3D_board as a STYLE reference only.
+COLLEAGUE: Bangladeshi male teacher, about 50, neutral office shirt; tiny supporting part. Attach Iqbal_3D_board as a STYLE reference only.
+AHONA: VOICE ONLY; same voice from initial call to all montage recipients and 8.3 transformed demonstration. No on-screen real Ahona woman.
+
+ENVIRONMENT CONTINUITY
+COLLEGE: Dhaka/Bangladesh-style square enclosure around grass courtyard; open verandas and barred ground-floor windows, traditional metal bell; modest classroom with dark chalkboard, desks and ceiling fan. REGISTER ROOM door seen first from corridor, then entered in Scene 7. Teacher staff-room separate.
+MEHRIN ROOM: tidy middle-class Dhaka bedroom, silver laptop, desk near window, books and phone; morning through late-afternoon lighting should not switch implausibly.
+SCAMMER ROOM: clean modern but non-luxury apartment, black desk, one large monitor, microphone, black phone ON DESK RIGHT OF KEYBOARD, small house of cards NEXT TO KEYBOARD, sheer curtain by slightly open window. Same exact geometry in Scenes 8 and 11. Scene 8 ends with him calmly leaving: beggar moment on the footpath, then he disappears into the Dhaka crowd (no chase, no villain music).
+
+TEXT/UI CONTINUITY
+1) Chalkboard always DIGITAL HYGIENE and VERIFY FIRST before erasure (add accurately in editing).
+2) Father forwards one LINK and a short message. Ahona does NOT message Mehrin directly.
+3) Same fictional careers page in Scenes 4, 5 and 6. CV has filename Mehrin_CV.pdf throughout.
+4) NO completed payment by Mehrin. Her cursor never clicks PAY NOW. Remove any insufficient-balance or wallet-top-up scene.
+5) Scammer's separate phone ACCOUNT BALANCE: ৳12,400 start; +৳500 = ৳12,900; +৳1,000 = ৳13,900; +৳800 = ৳14,700. 3 TINGS. This is other victims' money, NEVER Mehrin's.
+6) During doubts, silver laptop is closed after the father call; opens again only at the distinct CLACK.
+7) Final house of cards is SYMBOLIC; police did not instantly shut the scammer down.
+
+SHARED NEGATIVE PROMPT: photorealistic footage, live-action actors, copying any existing cartoon or franchise characters, oversaturated colors, distorted faces/hands, extra fingers, inconsistent architecture, unreadable generated lettering, copyrighted logos, actual mobile-wallet branding, terrifying villain styling, police raid, fireworks, cinematic explosions, watermark.
+SCREEN COMPOSITING TIP: for any phone/laptop/monitor screen, add "the screen is solid bright green" to the prompt, then chroma-key the Figma/Canva UI over it in the editor.
+The phone wallet balance numbers are examples for FICTIONAL animation; labels/increments must be rendered in post, not asked of a generative video model.
+
+======================================================================================
+SHOT PROMPTS (ENGLISH), WITH EXACT BENGALI OVERLAYS
+======================================================================================
+
+SCENE 01: কলেজের সকাল (00:00–00:11)
+--------------------------------------------------------------------------------
+[1.1] 00:00–00:02 | AI
+PROMPT / EDITOR BUILD:
+Wide establishing 3D animated shot from just inside the main gate of a large Bangladeshi college. Four wings of a multi-storey academic building form a square around an open grass courtyard, corridors, barred windows, concrete stairs, tropical trees, a few students walking. Gentle 2.5D parallax push forward, readable architectural geometry, no identifiable school branding.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Optional invented college sign only
+AUDIO CUE: Birds, faint campus voices
+SPECIAL NOTE: Keep entire square geometry readable; no real school name.
+
+[1.2] 00:02–00:04 | AI
+PROMPT / EDITOR BUILD:
+Side-on medium-wide 3D animated shot of a small black cat naturally walking across the foreground of the same Bangladeshi college ground-floor veranda. It briefly lifts its head toward an upstairs window and meows, then continues. Locked background, natural walk.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Black cat: one natural meow
+SPECIAL NOTE: Do not suggest supernatural symbolism.
+
+[1.3] 00:04–00:07 | AI
+PROMPT / EDITOR BUILD:
+Seamless slow cinematic camera tilt and push from the courtyard toward the barred open window of a ground-floor classroom in the same square college. Through glass-free window, a grey-haired Bangladeshi male teacher stands at the blackboard with seated students; lecture is visible but words are indistinct. Natural morning light.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Indistinct teaching murmur, classroom fan
+SPECIAL NOTE: Use camera move over a prepainted multi-layer BG.
+
+[1.4] 00:07–00:09 | AI
+PROMPT / EDITOR BUILD:
+Close-up of a traditional suspended metal college bell on a Bangladeshi veranda; a caretaker hand strikes the bell once or twice. Restrained 3D animated, physical swinging motion, no logo.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Loud metal bell DONG-DONG
+SPECIAL NOTE: Hard cut on first strike.
+
+[1.5] 00:09–00:11 | AI
+PROMPT / EDITOR BUILD:
+Static wide 3D animated shot of Bangladeshi college students leaving their classrooms into the long open veranda of the established campus, bags and natural chatter, overlapping simple walk cycles, ordinary end-of-class movement.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Footsteps, distant chatter
+SPECIAL NOTE: Reuse student walk cycles.
+
+
+SCENE 02: মুছে যাওয়া সতর্কবার্তা (00:11–00:21)
+--------------------------------------------------------------------------------
+[2.1] 00:11–00:14 | AI
+PROMPT / EDITOR BUILD:
+Static doorway-framed wide shot of an empty Bangladeshi college classroom with pale moss-green walls, wooden benches, ceiling fan, dark GREEN-BLACK CHALKBOARD, wooden teacher desk. Iqbal, a 56-year-old teacher wearing pale blue shirt, grey trousers, rimless glasses, short salt-and-pepper beard, erases the blackboard with a duster. Desk holds stacked exercise books, pen and black smartphone.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: DIGITAL HYGIENE / VERIFY FIRST / Unknown Links · Fake Offers (text added by editor)
+AUDIO CUE: Soft chalk erasing, fan hum
+SPECIAL NOTE: Overlay exact board text in post; not generated lettering.
+
+[2.2] 00:14–00:17 | AI
+PROMPT / EDITOR BUILD:
+Tight 3D animated close-up of Iqbal hand and felt duster wiping old white chalk text from a deep green-black school blackboard. Dust motes, slow erasing motion; deliberate focus on where warning text had been.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: VERIFY FIRST (editor overlay, dissolves with wipe)
+AUDIO CUE: Duster drag
+SPECIAL NOTE: Visual irony: lesson erased at moment of trust.
+
+[2.3] 00:17–00:19 | AI+UI
+PROMPT / EDITOR BUILD:
+Close-up of a plain black smartphone buzzing on a wooden teacher desk beside books and a fountain pen. The screen is blank neutral dark for 3D animated UI compositing. Empty classroom out of focus.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Phone UI: Unknown Number / Incoming call
+AUDIO CUE: Bzz bzz ringtone
+SPECIAL NOTE: Animate phone slight vibration in compositing.
+
+[2.4] 00:19–00:21 | AI+UI
+PROMPT / EDITOR BUILD:
+Close-up on Iqbal hand lifting the same black smartphone from the wooden desk. Phone screen empty placeholder for overlay, restrained perspective, consistent teacher sleeve.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Unknown Number / green answer icon
+AUDIO CUE: Call connected click
+SPECIAL NOTE: No real personal number.
+
+
+SCENE 03: অহনার ফোন ও রেজিস্টার কক্ষ (00:21–00:55)
+--------------------------------------------------------------------------------
+[3.1] 00:21–00:27 | AI
+PROMPT / EDITOR BUILD:
+Medium shot of Iqbal, late-50s Bangladeshi male college ICT teacher, glasses and pale-blue shirt, standing near partly erased classroom blackboard, receiving an unknown call. Subtle hand and mouth movements, natural listening, no melodramatic expression.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা: “আসসালামু আলাইকুম, ইকবাল স্যার?” | ইকবাল: “ওয়ালাইকুম আসসালাম। কে বলছ?”
+SPECIAL NOTE: Allow two spoken lines across 6 seconds.
+
+[3.2] 00:27–00:33 | AI
+PROMPT / EDITOR BUILD:
+Close-up of Iqbal listening on phone, momentary puzzled brow followed by polite familiarity. Same erased chalkboard and daylight.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা: “স্যার, আমি অহনা। ২০১৮ ব্যাচ, বি সেকশন।” | ইকবাল: “ঠিক মনে পড়ছে না মা। বলো।”
+SPECIAL NOTE: A little phone-bandwidth filter for Ahona only.
+
+[3.3] 00:33–00:41 | AI
+PROMPT / EDITOR BUILD:
+Medium 3D animated profile of Iqbal listening to female caller as he starts to gather his notebook and textbooks at the desk. Expression mildly interested, then hopeful; never naive or exaggerated.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা: “এখন একটা কোম্পানির এইচআর-এ আছি। লোক নিচ্ছি। আপনার পরিচিত কেউ চাকরি খুঁজছে?” | ইকবাল: “আমার মেয়েই তো খুঁজছে।”
+SPECIAL NOTE: Do not visualize female caller; voice only.
+
+[3.4] 00:41–00:47 | AI
+PROMPT / EDITOR BUILD:
+Side tracking 3D animated shot of Iqbal finishing phone call while collecting his books, stepping through the classroom door into a long open college corridor. Calm normal actions and lip movement.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা: “তাহলে একটা আবেদন লিংক পাঠাই। মেয়েকে আবেদন করতে বলবেন।” | ইকবাল: “আচ্ছা মা, পাঠাও।”
+SPECIAL NOTE: Dialogue overlaps walking; ensure he visibly leaves classroom.
+
+[3.5] 00:47–00:51 | AI
+PROMPT / EDITOR BUILD:
+Tracking perspective 3D animated Bangladeshi college veranda shot. Iqbal walks toward teachers room carrying books, finishing phone call; momentary rack focus to a doorway labelled Register Room, file shelves seen in gloom. No suspicious pause, no dramatic zoom.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: রেজিস্টার কক্ষ (post overlay)
+AUDIO CUE: অহনা: “ধন্যবাদ স্যার।” | ইকবাল: “ভালো থেকো।”
+SPECIAL NOTE: Foreshadow; exactly same register doorway in Scene 7.
+
+[3.6] 00:51–00:53 | AI+UI
+PROMPT / EDITOR BUILD:
+3D animated teachers staff-room medium shot, Iqbal sits at a wooden desk with dull steel file cabinet behind, puts books down as his phone receives a new message; screen neutral for overlay.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Message from Unknown: “স্যার, আবেদন করার লিংকটা পাঠালাম।” + invented link
+AUDIO CUE: Message ting
+SPECIAL NOTE: Avoid exposing actionable phishing address; use jobs.example.invalid.
+
+[3.7] 00:53–00:55 | COMPOSITE
+PROMPT / EDITOR BUILD:
+3D animated close-up of Iqbal hands holding smartphone at staff-room desk with completely blank readable display area for clean UI overlay; finger taps send.
+OVERLAY EXACTLY IN EDIT: To Mehrin: “আমার এক পুরনো ছাত্রী চাকরির খবর দিয়েছে। দেখো, তোমার কাজে লাগে কি না।” + preview link
+AUDIO CUE: Tap and send tick
+SPECIAL NOTE: MATCH CUT send tick → daughter notification.
+
+
+SCENE 04: মেহরিনের ঘর ও বাবার মেসেজ (00:55–01:06)
+--------------------------------------------------------------------------------
+[4.1] 00:55–00:59 | AI+UI
+PROMPT / EDITOR BUILD:
+3D animated wide to medium shot of Mehrin, 26-year-old Bangladeshi woman with long dark-brown wavy hair worn loose, mint-green kameez with white embroidery, white dupatta and teal trousers, working at a silver laptop on wooden study desk in a modest tidy Dhaka bedroom, bookshelf, notebook, bed and window daylight. Laptop screen clean blank light panel for UI mock.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Generic Career Search mock: Management Trainee / HR Executive / Junior Business Associate
+AUDIO CUE: Keyboard ticks, quiet room
+SPECIAL NOTE: See mock-screen specification section.
+
+[4.2] 00:59–01:02 | AI+UI
+PROMPT / EDITOR BUILD:
+Close-up of Mehrin picking up phone from her study desk and reading father’s message, a quick warm hopeful reaction. Neutral screen placeholder.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Baba: “আমার এক পুরনো ছাত্রী চাকরির খবর দিয়েছে। দেখো, তোমার কাজে লাগে কি না।”
+AUDIO CUE: Phone vibration + notification ding
+SPECIAL NOTE: No extra invented Ahona direct chat.
+
+[4.3] 01:02–01:06 | AI+UI
+PROMPT / EDITOR BUILD:
+Over-shoulder 3D animated shot as Mehrin uses laptop and opens a job application page based on the link from her father’s phone, brief loading state. Composition leaves laptop display large enough for a later UI overlay.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Job Application — Junior Executive — Apply Now
+AUDIO CUE: Mouse click, soft UI transition
+SPECIAL NOTE: Screen mock is NOT a real company website.
+
+
+SCENE 05: একটি ফর্ম, অনেক প্রতারণা (01:06–01:28)
+--------------------------------------------------------------------------------
+[5.1] 01:06–01:09 | MOTION
+PROMPT / EDITOR BUILD:
+2D motion-graphic close-up of an invented job application website: neat modern simple fields, dropdowns, attachment slot and mock cursor; no real brands.
+OVERLAY EXACTLY IN EDIT: Full Name: Mehrin; Phone: 01XXXXXXXXX; Education: MBA; CV: Mehrin_CV.pdf
+AUDIO CUE: Typing, cursor click
+SPECIAL NOTE: Make UI in Figma/Canva rather than text-to-video.
+
+[5.2] 01:09–01:12 | MOTION
+PROMPT / EDITOR BUILD:
+2D UI motion graphic close-up showing progress bar filling from 10 percent to 35 percent, CV upload line; soft foreground blur around screen.
+OVERLAY EXACTLY IN EDIT: Uploading Mehrin_CV.pdf — 10% → 35%
+AUDIO CUE: Digital soft ticks
+SPECIAL NOTE: Design progress returns at 5.7.
+
+[5.3] 01:12–01:15 | AI
+PROMPT / EDITOR BUILD:
+Brief 3D animated montage: Bangladeshi farmer in simple check lungi and shirt beside a lush paddy field and earthen footpath, listens to a smartphone, visual warmth and realism, no mocking caricature.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা (same AI voice): “সহজ শর্তে কৃষিঋণের জন্য আবেদন করুন।”
+SPECIAL NOTE: Same Ahona timbre as first call.
+
+[5.4] 01:15–01:17 | AI
+PROMPT / EDITOR BUILD:
+Brief 3D animated montage: middle-aged Bangladeshi mother seated beside school books in a modest domestic room, holds phone while listening carefully. Simple cinematic composition, authentic setting.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা (same AI voice): “আপনার সন্তানের স্কলারশিপের আবেদন চলছে।”
+SPECIAL NOTE: Hard cut following phone voice.
+
+[5.5] 01:17–01:20 | AI
+PROMPT / EDITOR BUILD:
+Brief 3D animated montage: a middle-aged Bangladeshi shopkeeper standing behind a modest street-side shop counter, looking at smartphone with interest as a travel-package call comes through.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা (same AI voice): “কম খরচে ভ্রমণ প্যাকেজ—আজই বুকিং করুন।”
+SPECIAL NOTE: Different occupation, same female voice.
+
+[5.6] 01:20–01:22 | AI
+PROMPT / EDITOR BUILD:
+3D animated montage: a young Bangladeshi job seeker in a small shared hostel room listens to a mobile phone, simple bed, hanging backpack, small desk.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: অহনা (same AI voice): “আপনার সিভি বাছাই হয়েছে। আবেদন শেষ করুন।”
+SPECIAL NOTE: No extra supporting dialogue.
+
+[5.7] 01:22–01:25 | MOTION
+PROMPT / EDITOR BUILD:
+2D UI close-up matching 5.2 exactly, progress bar smoothly goes to 100 percent, one green checkmark, calming pause.
+OVERLAY EXACTLY IN EDIT: 100% — CV Uploaded Successfully
+AUDIO CUE: Small confirmation tick
+SPECIAL NOTE: Must match same website layout and filename.
+
+[5.8] 01:25–01:28 | AI
+PROMPT / EDITOR BUILD:
+Economical 3D animated shot in college staff office: a second male teacher shows his smartphone to Iqbal, concerned. Iqbal glances toward the corridor doorway marked register room and steps toward it, continuity with earlier classroom.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Optional: caller shown Unknown Number
+AUDIO CUE: সহকর্মী: “ইকবাল ভাই, অহনা নামে আমাকেও ফোন করেছে!”
+SPECIAL NOTE: Use one short speaking line; short intercut.
+
+
+SCENE 06: প্রসেসিং ফি (01:28–01:39)
+--------------------------------------------------------------------------------
+[6.1] 01:28–01:31 | MOTION
+PROMPT / EDITOR BUILD:
+2D motion graphic of same fictional recruitment website showing an application processing fee card, central prominent amount and a Pay Now button, absolutely no real wallet/bank brands.
+OVERLAY EXACTLY IN EDIT: APPLICATION PROCESSING FEE — ৳1,000 — PAY NOW
+AUDIO CUE: UI soft pop
+SPECIAL NOTE: Never show actual completed payment.
+
+[6.2] 01:31–01:34 | AI
+PROMPT / EDITOR BUILD:
+Close-up of Mehrin at laptop narrowing her eyebrows; she glances at father’s message on smartphone and back to laptop, her uncertainty softened by trust in father.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: মেহরিন: “আবেদন করতেও টাকা?”
+SPECIAL NOTE: Subtle room tone, no swelling score.
+
+[6.3] 01:34–01:37 | AI+UI
+PROMPT / EDITOR BUILD:
+Tight 3D animated over-shoulder shot of laptop with blank place for prominent Pay Now button, cursor visibly hovering above button without pressing. Next to laptop, phone vibrates suddenly.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: PAY NOW (on laptop) / Baba Calling (on phone)
+AUDIO CUE: Ringtone cuts tension
+SPECIAL NOTE: Absolutely no Pay click, no insufficient-balance error, no transfer.
+
+[6.4] 01:37–01:39 | AI
+PROMPT / EDITOR BUILD:
+Medium close-up 3D animated of Mehrin picking up phone quickly while leaving her other hand off laptop trackpad. She answers father’s call.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Phone connect click
+SPECIAL NOTE: Transition to father call.
+
+
+SCENE 07: বাবার যাচাই ও সত্য (01:39–02:04)
+--------------------------------------------------------------------------------
+[7.1] 01:39–01:45 | AI
+PROMPT / EDITOR BUILD:
+3D animated cinematic medium close-up of Mehrin on the phone in same tidy bedroom, laptop showing blurred processing-fee page. First confused, then attentive.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: ইকবাল (ফোন): “মেহরিন, টাকা চেয়েছে?” | মেহরিন: “হ্যাঁ বাবা, এক হাজার।”
+SPECIAL NOTE: Natural voice, slight concern.
+
+[7.2] 01:45–01:51 | AI
+PROMPT / EDITOR BUILD:
+3D animated medium shot INSIDE college register room: Iqbal in blue shirt stands beside dusty student registers and metal shelves, speaking urgently on phone. Direct, fatherly, not shouting.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: ইকবাল: “এক টাকাও দিবা না।” | মেহরিন (ফোন): “কেন?” | ইকবাল: “আরও কয়েকজন শিক্ষক একই ফোন পেয়েছে।”
+SPECIAL NOTE: Music CUT exactly on “এক টাকাও দিবা না।”
+
+[7.3] 01:51–01:56 | AI+UI
+PROMPT / EDITOR BUILD:
+Overhead close-up of Iqbal hands turning yellowed pages of a handwritten 2018 HSC B Section student register on an old college table. Finger checks neat lines, with headings overlaid later; no readable invented student identities.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: ২০১৮ · বি সেকশন (overlay only)
+AUDIO CUE: ইকবাল (VO phone): “রেজিস্টারে ওই ব্যাচে অহনা নামে কাউকে পেলাম না।”
+SPECIAL NOTE: Use previous register room background exactly.
+
+[7.4] 01:56–02:01 | AI
+PROMPT / EDITOR BUILD:
+Intercut-style split or match cut between Mehrin stunned at desk and Iqbal in register room with phone, both restrained regret and clarity, no heavy expressions.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: মেহরিন: “তুমি তো বললে তোমার ছাত্রী!” | ইকবাল: “যাচাই না করেই লিংকটা পাঠিয়েছি।”
+SPECIAL NOTE: Keep response human and brief.
+
+[7.5] 02:01–02:04 | AI
+PROMPT / EDITOR BUILD:
+Close shot on Mehrin exhaling at her desk after hanging up, then gently lowering lid of silver laptop. No emphatic click here; camera holds briefly on her thoughtful face.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: মেহরিন (ফিসফিস): “আল্লাহ... একটুর জন্য বেঁচে গেলাম।”
+SPECIAL NOTE: She has NOT paid. Laptop remains CLOSED until shot 9.4.
+
+
+SCENE 08: প্রতারকের আসল কণ্ঠ এবং বাড়তে থাকা ব্যালেন্স (02:04–02:36)
+--------------------------------------------------------------------------------
+[8.1] 02:04–02:07 | AI
+PROMPT / EDITOR BUILD:
+Wide slow push-in 3D animated, tidy modern Dhaka apartment with neutral walls, daylight fading to soft dusk. A neat 30-year-old Bangladeshi male scammer in plain charcoal shirt sits at black desk facing large monitor and microphone. A SMALL HOUSE OF PLAYING CARDS stands beside keyboard; a black smartphone lies face-up on desk to his right. All items clearly visible.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Low room tone and fan hum
+SPECIAL NOTE: Anchor positions for all later scammer shots.
+
+[8.2] 02:07–02:11 | AI
+PROMPT / EDITOR BUILD:
+3D animated medium close-up, same clean-shaven Bangladeshi scammer speaking matter-of-factly into desk microphone, natural neutral face and mouth movements, monitor light reflecting gently.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: প্রতারক (পুরুষ): “স্যার, আমি অহনা বলছিলাম...”
+SPECIAL NOTE: Do not make him look like a caricature villain.
+
+[8.3] 02:11–02:15 | AI+UI
+PROMPT / EDITOR BUILD:
+Extreme close-up of man clicking mouse beside a screen showing abstract audio waveform changing shape. Same apartment, consistent desk. Overlay waveform in post.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: VOICE CONVERSION — waveform only, no brand
+AUDIO CUE: Mouse click, AI অহনা (female): “স্যার, আমি অহনা বলছিলাম...”
+SPECIAL NOTE: This is AI voice conversion, not proven cloning of a real Ahona.
+
+[8.4] 02:15–02:18 | COMPOSITE
+PROMPT / EDITOR BUILD:
+Over-the-shoulder 3D animated of scammer looking at large desktop monitor. Monitor plane clean, to receive four fictional campaign cards in editor; keyboard and house of cards seen at desk edge.
+OVERLAY EXACTLY IN EDIT: FAKE JOB / LOAN APPLICATION / SCHOLARSHIP / TRAVEL BOOKING
+AUDIO CUE: Very quiet electronic hum
+SPECIAL NOTE: Keep generic window titles not real service logos.
+
+[8.5] 02:18–02:24 | AI+MOTION
+PROMPT / EDITOR BUILD:
+Extreme close-up on the SAME face-up black smartphone on the scammer desk, real perspective consistent with wide shot. Phone fills frame, surrounded by desk edge and blurry playing cards. Screen deliberately flat dark placeholder for motion-graphics overlay; no actual numbers should be generated by video model. Camera locked for stable compositing.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: FICTIONAL WALLET: Available Balance ৳12,400 → ৳12,900 (+৳500) → ৳13,900 (+৳1,000) → ৳14,700 (+৳800). Three incoming payment notifications.
+AUDIO CUE: TING at 138.7s, 140.5s, 142.3s (editor may shift by frames).
+SPECIAL NOTE: Critical: balances mathematically consistent; PHONE SCREEN balances, not just computer notifications; no real wallet/bank logo.
+
+[8.6] 02:24–02:26 | AI
+PROMPT / EDITOR BUILD:
+Close-up, restrained: the scammer's steady hand places one more playing card on top of the small house of cards beside the keyboard, unhurried; monitor glow behind, the black phone face-up on the desk.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Card rustle
+SPECIAL NOTE: Room arrangement must match the final empty-room shot (Scene 11).
+
+[8.7] 02:26–02:28 | AI
+PROMPT / EDITOR BUILD:
+Same scammer apartment at dusk, framed from the shoulders down so his face is not shown: the man in a plain charcoal shirt locks his computer and the monitor goes dark, straps a smartwatch on his wrist and slips his own personal smartphone into his pocket. The separate black phone stays face-up on the desk right of the keyboard, next to the small house of cards.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Lock click, chair roll
+SPECIAL NOTE: The wallet phone must stay on the desk for Scene 11.
+
+[8.8] 02:28–02:30 | AI
+PROMPT / EDITOR BUILD:
+Close-up of a man's hands tying the laces of clean white sneakers by the apartment door, then the door closing behind him. Same apartment, dusk light.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Lace pull, door closing
+SPECIAL NOTE: Hands and shoes only; no face.
+
+[8.9] 02:30–02:33 | AI
+PROMPT / EDITOR BUILD:
+Busy Dhaka footpath in early evening: a frail elderly man sitting by a wall holds out his hand; the same man in a plain charcoal shirt walks past and drops a few banknotes into the hand without looking at him or slowing down. Seen from the side and behind, face not shown. The elderly man is shown with dignity, not as a caricature.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Street ambience, rickshaw bells
+SPECIAL NOTE: Careless charity: he is comfortable, not desperate.
+
+[8.10] 02:33–02:36 | AI
+PROMPT / EDITOR BUILD:
+Wide shot from behind: the man in a plain charcoal shirt walks away and disappears into a dense Dhaka street crowd with rickshaws, people and traffic in early evening light. He looks completely ordinary.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: City sound only. NO villain music.
+SPECIAL NOTE: Ordinary man in the crowd.
+
+
+SCENE 09: মনের ভেতরের কণ্ঠ (02:36–02:56)
+--------------------------------------------------------------------------------
+[9.1] 02:36–02:40 | AI
+PROMPT / EDITOR BUILD:
+3D animated close-up of Mehrin alone at bedroom desk in fading afternoon light, silver laptop CLOSED, hands still, eyes searching for a decision. Slow push toward her face.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: মেহরিন (নিজের মনে): “কিন্তু... রিপোর্ট করব?”
+SPECIAL NOTE: Start without music.
+
+[9.2] 02:40–02:48 | AI+MOTION
+PROMPT / EDITOR BUILD:
+Stylized restrained 3D animated psychological sequence: same Mehrin stays centered, edges of room simplify into desaturated silhouettes, translucent blurred Bengali typographic thought fragments orbit gently; floating text added in post, not generated. Subtle inward camera push.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Floating phrases: টাকা যায়নি / মানুষ হাসবে / এত ঝামেলা / অভিযোগ করে কী হবে?
+AUDIO CUE: V1 “তোর তো টাকা যায়নি...” V2 “এক হাজার টাকার জন্য এত ঝামেলা?” V3 “মানুষ জানলে হাসবে।” V4 “শুনেছি, জিডি করতেও নাকি টাকা লাগে!” V5 “অভিযোগ করে কী হবে?” V6 “বাদ দে...”
+SPECIAL NOTE: These are intrusive doubts, NOT factual statements. Avoid claim that an actual GD requires payment.
+
+[9.3] 02:48–02:52 | AI+MOTION
+PROMPT / EDITOR BUILD:
+Tight 3D animated close-up of Mehrin pressing hands to temples with rising anxious but controlled internal conflict; overlapping abstract text shadows approach frame edge, no horror strobe effects.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Layered repetitions: “টাকা যায়নি...”, “হাসবে...”, “কী হবে...”
+SPECIAL NOTE: Voice layers build then stop instantly in next shot.
+
+[9.4] 02:52–02:56 | AI
+PROMPT / EDITOR BUILD:
+Locked 3D animated close-up on Mehrin hands opening the CLOSED silver laptop lid, then cut to her face softly lit by screen. Decisive simple movement. The loud mechanical lid-open click is the cue for immediate absolute silence.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: LAPTOP CLACK exactly at 174s → ALL VOICES AND MUSIC HARD CUT TO SILENCE
+SPECIAL NOTE: No fade, no echo, no other sound immediately after the clack.
+
+
+SCENE 10: প্রমাণসহ রিপোর্ট (02:56–03:11)
+--------------------------------------------------------------------------------
+[10.1] 02:56–02:59 | MOTION
+PROMPT / EDITOR BUILD:
+Editor-built clean 2D laptop search interface with typing cursor and simple neutral browser tabs. Screen-only graphic, no video-model text.
+OVERLAY EXACTLY IN EDIT: How to report cybercrime in Bangladesh
+AUDIO CUE: Single keyboard strokes, otherwise quiet
+SPECIAL NOTE: Use search mock UI; direct link to official sources only.
+
+[10.2] 02:59–03:02 | MOTION
+PROMPT / EDITOR BUILD:
+Editor-built 2D illustrated search results, clear official URLs without copied logos; show search result for Bangladesh Police Online GD and a verified Police Cyber Support for Women contact reference.
+OVERLAY EXACTLY IN EDIT: Bangladesh Police Online GD — gd.police.gov.bd | Police Cyber Support for Women — cybersupport.women@police.gov.bd
+AUDIO CUE: Subtle selection click
+SPECIAL NOTE: A search result is NOT the full actual portal process; later form is condensed fictional montage.
+
+[10.3] 03:02–03:06 | MOTION
+PROMPT / EDITOR BUILD:
+2D desktop montage of clearly fake sample screenshots and icons being collected into a folder on laptop. Browser UI designed in editor.
+OVERLAY EXACTLY IN EDIT: EVIDENCE / call-log.png / message-screenshot.png / fake-job-page.png / suspicious-url.txt
+AUDIO CUE: Soft mouse clicks
+SPECIAL NOTE: Show URL in screenshot; do not recreate live phishing domain.
+
+[10.4] 03:06–03:09 | MOTION
+PROMPT / EDITOR BUILD:
+Clean 2D simplified storyboard of reporting steps, fictional condensed interface, no exact claim this matches current government screen: identity/account step is shown in a quick transition, complaint description typed, files attached, submit button appears.
+OVERLAY EXACTLY IN EDIT: Complaint details / Supporting evidence attached / SUBMIT
+AUDIO CUE: Keyboard, tiny clicks
+SPECIAL NOTE: Mark simplified screen mock as illustration, not a screenshot of real site.
+
+[10.5] 03:09–03:11 | MOTION
+PROMPT / EDITOR BUILD:
+2D animation close-up on cursor activating SUBMIT in the fictionalized complaint flow; status overlay appears for a single beat then smash cut.
+OVERLAY EXACTLY IN EDIT: REPORT SUBMITTED (cinematic overlay); NOT “Case solved”, NOT “Suspect arrested”
+AUDIO CUE: One crisp mouse CLICK
+SPECIAL NOTE: Status means information sent only; not a verified real-world police acceptance.
+
+
+SCENE 11: ফিরে দেখা সেই তাসের ঘর (03:11–03:16)
+--------------------------------------------------------------------------------
+[11.1] 03:11–03:14 | AI
+PROMPT / EDITOR BUILD:
+Locked 3D animated composition matching scammer apartment exactly: empty room, BLACK POWERED-OFF MONITOR, same black smartphone placed right of keyboard, same small house of playing cards. Light breeze gently moves curtain and top card, very subtle motion.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+OVERLAY EXACTLY IN EDIT: Phone may be dark/locked; no further balance change after report
+AUDIO CUE: Soft breeze, faint room tone
+SPECIAL NOTE: Do not imply reporting instantly froze or emptied a bank account.
+
+[11.2] 03:14–03:16 | AI
+PROMPT / EDITOR BUILD:
+Close-up 3D animated of the small house of playing cards losing its balance and falling gently in a quiet, physical cascade onto dark desk. No explosion, flashes, police raid, or dramatic color grading.
+STYLE: Stylized 3D animated short film matching the attached character boards, original characters, soft rounded character design, expressive eyes, smooth toon shading, soft cinematic lighting, muted earthy green/ochre/grey palette, Bangladeshi characters in a Bangladesh setting, 16:9 horizontal 1920x1080, consistent character design and environment geometry. Not live action, not photorealistic, not based on any existing cartoon or franchise, no AI-generated written words, no subtitles, no real corporate logos, no watermark.
+AUDIO CUE: Soft paper card patter
+SPECIAL NOTE: Visual metaphor for breaking silence, NOT a confirmed takedown.
+
+
+SCENE 12: শেষ বার্তা (03:16–03:27)
+--------------------------------------------------------------------------------
+[12.1] 03:16–03:19 | END
+PROMPT / EDITOR BUILD:
+Editor-created black background, high-contrast Bengali typography only.
+OVERLAY EXACTLY IN EDIT: “আপনার কাছে মাত্র ১,০০০ টাকা।”
+AUDIO CUE: Silence or faint low note
+SPECIAL NOTE: Hold readable 3 seconds.
+
+[12.2] 03:19–03:22 | END
+PROMPT / EDITOR BUILD:
+Editor-created minimalist black background with single highlighted Bengali sentence.
+OVERLAY EXACTLY IN EDIT: “তার কাছে হাজার মানুষের ১,০০০ টাকা।”
+AUDIO CUE: Single subtle low note
+SPECIAL NOTE: Hold readable 3 seconds.
+
+[12.3] 03:22–03:25 | END
+PROMPT / EDITOR BUILD:
+Minimal editor-made end card, bold awareness line, very small but readable genuine reference beneath, no invented police logo.
+OVERLAY EXACTLY IN EDIT: যাচাই করুন। প্রমাণ রাখুন। রিপোর্ট করুন। | PCSW: cybersupport.women@police.gov.bd
+AUDIO CUE: Silence
+SPECIAL NOTE: PCSW for women; free support. Do not show 4-line tiny checklist in 3 seconds.
+
+[12.4] 03:25–03:27 | END
+PROMPT / EDITOR BUILD:
+Simple high-contrast end-title card with clean original Bengali lettering, no logo.
+OVERLAY EXACTLY IN EDIT: মাত্র ১০০০
+AUDIO CUE: Fade to black
+SPECIAL NOTE: End precisely at 03:27.
+
+======================================================================================
+UI SCREEN DESIGN SPECIFICATIONS
+======================================================================================
+A. COLLEGE BOARD: Deep green-black chalkboard with white chalk script. DIGITAL HYGIENE at top, VERIFY FIRST large middle, Unknown Links • Fake Offers small bottom. Erase VERIFY FIRST synchronously with phone ring.
+B. FATHER CHAT: From Baba, single message “আমার এক পুরনো ছাত্রী চাকরির খবর দিয়েছে। দেখো, তোমার কাজে লাগে কি না।” plus separate job-link preview. No real phone number.
+C. CAREER SEARCH (daughter): light off-white browser page, header Career Search, three simple cards: Management Trainee / HR Executive / Junior Business Associate, fictional content.
+D. FAKE APPLICATION: same site palette in every shot. Fields Full Name / Phone / Education: MBA / Upload CV. Progress goes 10→35→100, and FINAL state “CV Uploaded Successfully”.
+E. FAKE FEE: APPLICATION PROCESSING FEE • ৳1,000 • PAY NOW. She pauses BEFORE clicking. No wallet-top-up or insufficient-balance shot.
+F. SCAMMER DESKTOP: split tiles FAKE JOB / LOAN APPLICATION / SCHOLARSHIP / TRAVEL BOOKING. Avoid futuristic hacker clichés.
+G. SCAMMER PHONE (CRITICAL NEW SHOT 8.5): Generic app title “Account Overview” and label “Available Balance”. Start ৳12,400. Notification #1 Incoming ৳500 → ৳12,900. #2 Incoming ৳1,000 → ৳13,900. #3 Incoming ৳800 → ৳14,700. ONE audible TING per actual increment. The phone remains on the desk; no real wallet brand. Even if the video is sped up, final balance must remain readable for a beat.
+H. REPORTING: Search query “How to report cybercrime in Bangladesh”; official reference gd.police.gov.bd and, for women, cybersupport.women@police.gov.bd. Use stylized illustration for form (not exact police website). Evidence folder includes call-log.png / message-screenshot.png / fake-job-page.png / suspicious-url.txt; after submit show REPORT SUBMITTED overlay only.
+I. END: 3+3+3+2 seconds. Correct Bangla typesetting at large readable size; no 4 tiny separate safety tips crammed into 3 seconds.
+
+RENDER SETTINGS: 16:9; 1920×1080; animation at 24fps timeline (or 25fps if all assets use it consistently); preserve exact duration of 207s including end title; protect sound effects; use PNG/SVG overlays for pristine Bengali glyph rendering.
+
+
+################################################################################
+# PART 3 OF 3  —  Scammer1000_03_Dialogue_Voice_Script_REVISED_3D.txt
+################################################################################
+
+মাত্র ১০০০ — REVISED 3D ANIMATION | 03: DIALOGUE & VOICE RECORDING SCRIPT
+CyberFrames 2026 Finale • Synchronized to the exact 03:27 shot master (file 01)
+======================================================================================
+RECORDING ORDER: record Iqbal, Mehrin, colleague, scammer, female-converted Ahona, then 6 intrusive inner voices. There is NO mother dialogue and NO classroom lecture dialogue.
+VOICE PRODUCTION: Ahona is a fictitious identity; use ONE CONSISTENT female AI-converted voice for phone and scam montage. In Scene 8.2 record original male scammer saying the IDENTICAL line at near-identical pacing, then play corresponding converted female take in Scene 8.3.
+Phone voice = band-pass/telephone filter; audio on scammer monitor playback in 8.3 = clearer, no phone filter. Gain-stage overlap so final inner thoughts are intelligible at start and become intentionally crowded later.
+Each spoken-line take name: [shotID]_[actor]_[take].wav e.g. 3.1_Ahona_take1.wav. Keep raw WAV backups.
+
+ACTOR VOICES:
+IQBAL: male 55–58, Bangladeshi Bengali, calm, warm and educated, later sincere worry/embarrassment.
+MEHRIN: female 25–27, composed, smart, questioning, quietly decisive; NOT a helpless victim.
+AHONA: synthetic female voice derived from SCAMMER actor, polite, professional, same voice across all calls.
+COLLEAGUE: male teacher, one surprised line only.
+SCAMMER: male around 30, dry matter-of-fact voice.
+INNER VOICES 1–6: a mix of ages/genders/dialects, all imagined anxieties rather than actual verified statements.
+
+======================================================================================
+DIALOGUE IN CHRONOLOGICAL ORDER
+======================================================================================
+
+SCENE 01 — কলেজের সকাল | 00:00–00:11
+--------------------------------------------------------------------------------
+[1.1] SFX / NO DIALOGUE — Birds, faint campus voices
+[1.2] SFX / NO DIALOGUE — Black cat: one natural meow
+[1.3] SFX / NO DIALOGUE — Indistinct teaching murmur, classroom fan
+[1.4] SFX / NO DIALOGUE — Loud metal bell DONG-DONG
+[1.5] SFX / NO DIALOGUE — Footsteps, distant chatter
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+SCENE 02 — মুছে যাওয়া সতর্কবার্তা | 00:11–00:21
+--------------------------------------------------------------------------------
+[2.1] SFX / NO DIALOGUE — Soft chalk erasing, fan hum
+[2.2] SFX / NO DIALOGUE — Duster drag
+[2.3] SFX / NO DIALOGUE — Bzz bzz ringtone
+[2.4] SFX / NO DIALOGUE — Call connected click
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+SCENE 03 — অহনার ফোন ও রেজিস্টার কক্ষ | 00:21–00:55
+--------------------------------------------------------------------------------
+[3.1] 00:21–00:27 (6s)
+  অহনা (phone/AI voice): “আসসালামু আলাইকুম, ইকবাল স্যার?”
+  ACTING: শ্রদ্ধাশীল, স্বাভাবিক
+  ইকবাল: “ওয়ালাইকুম আসসালাম। কে বলছ?”
+  ACTING: ভদ্র, কৌতূহলী
+
+[3.2] 00:27–00:33 (6s)
+  অহনা (phone/AI voice): “স্যার, আমি অহনা। ২০১৮ ব্যাচ, বি সেকশন।”
+  ACTING: অতি নাটকীয় নয়
+  ইকবাল: “ঠিক মনে পড়ছে না মা। বলো।”
+  ACTING: আন্তরিক
+
+[3.3] 00:33–00:41 (8s)
+  অহনা (phone/AI voice): “এখন একটা কোম্পানির এইচআর-এ আছি। লোক নিচ্ছি। আপনার পরিচিত কেউ চাকরি খুঁজছে?”
+  ACTING: পেশাদার, তাড়াহুড়ো নয়
+  ইকবাল: “আমার মেয়েই তো খুঁজছে।”
+  ACTING: আশাবাদী
+
+[3.4] 00:41–00:47 (6s)
+  অহনা (phone/AI voice): “তাহলে একটা আবেদন লিংক পাঠাই। মেয়েকে আবেদন করতে বলবেন।”
+  ACTING: সহজ ভঙ্গি
+  ইকবাল: “আচ্ছা মা, পাঠাও।”
+  ACTING: বই গোছাতে গোছাতে
+
+[3.5] 00:47–00:51 (4s)
+  অহনা (phone/AI voice): “ধন্যবাদ স্যার।”
+  ACTING: কল শেষ হওয়ার স্বাভাবিকতা
+  ইকবাল: “ভালো থেকো।”
+  ACTING: হাঁটতে হাঁটতে
+
+
+SCENE 04 — মেহরিনের ঘর ও বাবার মেসেজ | 00:55–01:06
+--------------------------------------------------------------------------------
+[4.1] SFX / NO DIALOGUE — Keyboard ticks, quiet room
+[4.2] SFX / NO DIALOGUE — Phone vibration + notification ding
+[4.3] SFX / NO DIALOGUE — Mouse click, soft UI transition
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+SCENE 05 — একটি ফর্ম, অনেক প্রতারণা | 01:06–01:28
+--------------------------------------------------------------------------------
+[5.3] 01:12–01:15 (3s)
+  অহনা (montage AI voice): “সহজ শর্তে কৃষিঋণের জন্য আবেদন করুন।”
+  ACTING: একই timbre; ফোন ফিল্টার
+
+[5.4] 01:15–01:17 (2s)
+  অহনা (montage AI voice): “আপনার সন্তানের স্কলারশিপের আবেদন চলছে।”
+  ACTING: একই timbre
+
+[5.5] 01:17–01:20 (3s)
+  অহনা (montage AI voice): “কম খরচে ভ্রমণ প্যাকেজ—আজই বুকিং করুন।”
+  ACTING: একই timbre
+
+[5.6] 01:20–01:22 (2s)
+  অহনা (montage AI voice): “আপনার সিভি বাছাই হয়েছে। আবেদন শেষ করুন।”
+  ACTING: একই timbre
+
+[5.8] 01:25–01:28 (3s)
+  সহকর্মী শিক্ষক: “ইকবাল ভাই, অহনা নামে আমাকেও ফোন করেছে!”
+  ACTING: ছোট, উদ্বিগ্ন
+
+
+SCENE 06 — প্রসেসিং ফি | 01:28–01:39
+--------------------------------------------------------------------------------
+[6.1] SFX / NO DIALOGUE — UI soft pop
+[6.2] 01:31–01:34 (3s)
+  মেহরিন: “আবেদন করতেও টাকা?”
+  ACTING: নিজের মনে
+
+[6.3] SFX / NO DIALOGUE — Ringtone cuts tension
+[6.4] SFX / NO DIALOGUE — Phone connect click
+
+SCENE 07 — বাবার যাচাই ও সত্য | 01:39–02:04
+--------------------------------------------------------------------------------
+[7.1] 01:39–01:45 (6s)
+  ইকবাল (phone): “মেহরিন, টাকা চেয়েছে?”
+  ACTING: চিন্তিত
+  মেহরিন: “হ্যাঁ বাবা, এক হাজার।”
+  ACTING: অবাক
+
+[7.2] 01:45–01:51 (6s)
+  ইকবাল: “এক টাকাও দিবা না।”
+  ACTING: দৃঢ়; সঙ্গীত বন্ধ
+  মেহরিন (phone): “কেন?”
+  ACTING: স্বতঃস্ফূর্ত
+  ইকবাল: “আরও কয়েকজন শিক্ষক একই ফোন পেয়েছে।”
+  ACTING: জরুরি
+
+[7.3] 01:51–01:56 (5s)
+  ইকবাল (VO phone): “রেজিস্টারে ওই ব্যাচে অহনা নামে কাউকে পেলাম না।”
+  ACTING: তথ্য জানাচ্ছেন
+
+[7.4] 01:56–02:01 (5s)
+  মেহরিন: “তুমি তো বললে তোমার ছাত্রী!”
+  ACTING: অভিযোগের চেয়ে বিস্ময়
+  ইকবাল: “যাচাই না করেই লিংকটা পাঠিয়েছি।”
+  ACTING: অনুতপ্ত, সংক্ষিপ্ত
+
+[7.5] 02:01–02:04 (3s)
+  মেহরিন (whisper): “আল্লাহ... একটুর জন্য বেঁচে গেলাম।”
+  ACTING: দীর্ঘশ্বাস
+
+
+SCENE 08 — প্রতারকের আসল কণ্ঠ এবং বাড়তে থাকা ব্যালেন্স | 02:04–02:36
+--------------------------------------------------------------------------------
+[8.1] SFX / NO DIALOGUE — Low room tone and fan hum
+[8.2] 02:07–02:11 (4s)
+  প্রতারক (natural male): “স্যার, আমি অহনা বলছিলাম...”
+  ACTING: একেবারে নিরাবেগ
+
+[8.3] 02:11–02:15 (4s)
+  অহনা (converted AI female): “স্যার, আমি অহনা বলছিলাম...”
+  ACTING: ৮.২-এর timing এক; ফোন ফিল্টার নয়
+
+[8.4] SFX / NO DIALOGUE — Very quiet electronic hum
+[8.5] SFX / NO DIALOGUE — TING at 138.7s, 140.5s, 142.3s (editor may shift by frames).
+[8.6] SFX / NO DIALOGUE — Card rustle
+[8.7] SFX / NO DIALOGUE — Lock click, chair roll
+[8.8] SFX / NO DIALOGUE — Lace pull, door closing
+[8.9] SFX / NO DIALOGUE — Street ambience, rickshaw bells
+[8.10] SFX / NO DIALOGUE — City sound only. NO villain music.
+
+SCENE 09 — মনের ভেতরের কণ্ঠ | 02:36–02:56
+--------------------------------------------------------------------------------
+[9.1] 02:36–02:40 (4s)
+  মেহরিন (inner): “কিন্তু... রিপোর্ট করব?”
+  ACTING: নিজেকে প্রশ্ন
+
+[9.2] 02:40–02:48 (8s)
+  Voice 1 (inner doubt): “তোর তো টাকা যায়নি...”
+  ACTING: মেহরিনের ভয়, বাস্তব নয়
+  Voice 2 (inner doubt): “এক হাজার টাকার জন্য এত ঝামেলা?”
+  ACTING: হালকা ভর্ৎসনা
+  Voice 3 (inner doubt): “মানুষ জানলে হাসবে।”
+  ACTING: সামাজিক চাপ
+  Voice 4 (inner rumor): “শুনেছি, জিডি করতেও নাকি টাকা লাগে!”
+  ACTING: স্পষ্টত গুজব/শোনা কথা
+  Voice 5 (inner doubt): “অভিযোগ করে কী হবে?”
+  ACTING: হতাশা
+  Voice 6 (inner doubt): “বাদ দে...”
+  ACTING: শেষে নিচু গলা
+
+[9.3] 02:48–02:52 (4s)
+  Overlap chorus: “টাকা যায়নি... হাসবে... কী হবে...”
+  ACTING: আগের রেকর্ডিং-এর layered excerpts; নতুন লাইন নয়
+
+[9.4] SFX / NO DIALOGUE — LAPTOP CLACK exactly at 174s → ALL VOICES AND MUSIC HARD CUT TO SILENCE
+
+SCENE 10 — প্রমাণসহ রিপোর্ট | 02:56–03:11
+--------------------------------------------------------------------------------
+[10.1] SFX / NO DIALOGUE — Single keyboard strokes, otherwise quiet
+[10.2] SFX / NO DIALOGUE — Subtle selection click
+[10.3] SFX / NO DIALOGUE — Soft mouse clicks
+[10.4] SFX / NO DIALOGUE — Keyboard, tiny clicks
+[10.5] SFX / NO DIALOGUE — One crisp mouse CLICK
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+SCENE 11 — ফিরে দেখা সেই তাসের ঘর | 03:11–03:16
+--------------------------------------------------------------------------------
+[11.1] SFX / NO DIALOGUE — Soft breeze, faint room tone
+[11.2] SFX / NO DIALOGUE — Soft paper card patter
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+SCENE 12 — শেষ বার্তা | 03:16–03:27
+--------------------------------------------------------------------------------
+[12.1] SFX / NO DIALOGUE — Silence or faint low note
+[12.2] SFX / NO DIALOGUE — Single subtle low note
+[12.3] SFX / NO DIALOGUE — Silence
+[12.4] SFX / NO DIALOGUE — Fade to black
+  No spoken lines in this scene. Use the SFX/storyboard cues indicated.
+
+======================================================================================
+SCENE 9 — OVERLAP MIX MAP (MUST PRESERVE LAPTOP-CLACK SILENCE)
+======================================================================================
+2:36–2:40 [9.1] Mehrin says slowly: “কিন্তু... রিপোর্ট করব?”
+2:40–2:48 [9.2] Start VOICE 1 alone (approx 2:40), VOICE 2 (2:41), VOICE 3 (2:42), VOICE 4 (2:44), VOICE 5 (2:46), VOICE 6 (2:47). These onset times are suggestions and DO NOT imply every line must finish before the next starts.
+2:48–2:52 [9.3] Reuse clipped excerpts of the existing voices on separate pan positions, increasing layering and tension. No payment notification TING here; those belong to the scammer wallet scene only.
+2:52–2:56 [9.4] Silence trigger: at approx 2:54 LAPTOP CLACK; set every voice and underscore bus gain immediately to -∞ at the single frame. The image then shows calm screen glow. NO reverb tail.
+The line “শুনেছি, জিডি করতেও নাকি টাকা লাগে!” is an intentionally mistaken/uncertain inner rumor. Never present it as legal or procedural advice. PCSW service is officially free.
+
+======================================================================================
+NON-DIALOGUE SOUND EFFECT SHEET
+======================================================================================
+[1.1] 00:00–00:02 — Birds, faint campus voices
+[1.2] 00:02–00:04 — Black cat: one natural meow
+[1.3] 00:04–00:07 — Indistinct teaching murmur, classroom fan
+[1.4] 00:07–00:09 — Loud metal bell DONG-DONG
+[1.5] 00:09–00:11 — Footsteps, distant chatter
+[2.1] 00:11–00:14 — Soft chalk erasing, fan hum
+[2.2] 00:14–00:17 — Duster drag
+[2.3] 00:17–00:19 — Bzz bzz ringtone
+[2.4] 00:19–00:21 — Call connected click
+[3.6] 00:51–00:53 — Message ting
+[3.7] 00:53–00:55 — Tap and send tick
+[4.1] 00:55–00:59 — Keyboard ticks, quiet room
+[4.2] 00:59–01:02 — Phone vibration + notification ding
+[4.3] 01:02–01:06 — Mouse click, soft UI transition
+[5.1] 01:06–01:09 — Typing, cursor click
+[5.2] 01:09–01:12 — Digital soft ticks
+[5.7] 01:22–01:25 — Small confirmation tick
+[6.1] 01:28–01:31 — UI soft pop
+[6.3] 01:34–01:37 — Ringtone cuts tension
+[6.4] 01:37–01:39 — Phone connect click
+[8.1] 02:04–02:07 — Low room tone and fan hum
+[8.4] 02:15–02:18 — Very quiet electronic hum
+[8.5] 02:18–02:24 — TING at 138.7s, 140.5s, 142.3s (editor may shift by frames).
+[8.6] 02:24–02:26 — Card rustle
+[8.7] 02:26–02:28 — Lock click, chair roll
+[8.8] 02:28–02:30 — Lace pull, door closing
+[8.9] 02:30–02:33 — Street ambience, rickshaw bells
+[8.10] 02:33–02:36 — City sound only. NO villain music.
+[9.4] 02:52–02:56 — LAPTOP CLACK exactly at 174s → ALL VOICES AND MUSIC HARD CUT TO SILENCE
+[10.1] 02:56–02:59 — Single keyboard strokes, otherwise quiet
+[10.2] 02:59–03:02 — Subtle selection click
+[10.3] 03:02–03:06 — Soft mouse clicks
+[10.4] 03:06–03:09 — Keyboard, tiny clicks
+[10.5] 03:09–03:11 — One crisp mouse CLICK
+[11.1] 03:11–03:14 — Soft breeze, faint room tone
+[11.2] 03:14–03:16 — Soft paper card patter
+[12.1] 03:16–03:19 — Silence or faint low note
+[12.2] 03:19–03:22 — Single subtle low note
+[12.3] 03:22–03:25 — Silence
+[12.4] 03:25–03:27 — Fade to black
+
+CRITICAL AUDIO CONTINUITY
+• The teacher receives the synthetic Ahona call immediately after erasing VERIFY FIRST; the audience discovers its male source only in 8.2–8.3.
+• The precise new scammer-phone balance animation occurs during 8.5 (2:18–2:24): three TINGs and 3 balance increments +500/+1,000/+800, ending ৳14,700.
+• The payment sounds indicate other victims; Mehrin never sends ৳1,000.
+• “REPORT SUBMITTED” is screen text, not a spoken victory line; no implied instant arrest.
+• Keep spoken pacing natural. If performance is too long, shorten wording in ALL THREE files together, never silently speed dialogue to an unnatural cadence.
+• End card has no narration; leave time for viewers to read it.
